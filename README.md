@@ -28,3 +28,7 @@ TODO:
 -   Ability to ignore certian rules
 -   Add element reference the issue was discovered on
 -   Add reference to related WCAG guideline
+
+## Credit
+
+Adapted from - https://github.com/mmacartney10/pa11y-child-processes-super-quick by Matt Macartney.
