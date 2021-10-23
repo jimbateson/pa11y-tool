@@ -4,7 +4,7 @@ A tool for running Pa11y against URLs in bulk
 
 ## Install and run
 
--   Run `npm install`
+-   Run `npm i`
 -   Run `npm start` (bulk)
 -   Run `npm run pa11y` (single url)
 
@@ -18,7 +18,7 @@ A tool for running Pa11y against URLs in bulk
 ### Single
 
 -   Add the url you want to test in the `pa11y` script command in the `package` file (after the `URL=` parameter)
--   The putput should be shown in the terminal
+-   The output should be shown in the terminal
 
 ## Example output:
 
