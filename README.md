@@ -7,7 +7,7 @@ A tool for running Pa11y against URLs in bulk
 -   Run `npm start`
 -   The output should be in the `data/output.json` file.
 
-# The output file will be an structured as follows:
+## Example output:
 
 ```
 {
