@@ -1,0 +1,17 @@
+{
+  "name": "pa11y-child-processes-super-quick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cross-env node index.js",
+    "pa11y": "cross-env URL=https://www.southeasternrailway.co.uk/seatfinder-feedback node pa11y.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "pa11y": "^6.0.1"
+  }
+}
